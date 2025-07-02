@@ -1,0 +1,13 @@
+Power Bi Sales Report Visualization :-
+
+
+Problem Understanding :-
+
+
+OverView :-
+
+1. Show state by sum of sales and average sale.
+3. Show the total number of State in Card
+4. Show The Total Number City in Card
+5. Show the top state name in card
+6. count total Number of branches in India
